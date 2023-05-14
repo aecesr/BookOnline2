@@ -1,9 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T06:33:28.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.9" etag="nfBqzd2fy-ERptR4Ybdc" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T08:01:32.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6s5D5jJB_XaWQQdXaBLr" version="21.2.9" type="github">
   <diagram name="第 1 页" id="sjyV6YbLuAIzrhgUkgNF">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-1" target="KeRqx2bCTjgoF4S-KRW7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-1" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300.01" y="90" width="83.33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-2" target="KeRqx2bCTjgoF4S-KRW7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-2" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301.65999999999997" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-3" target="KeRqx2bCTjgoF4S-KRW7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-3" target="KeRqx2bCTjgoF4S-KRW7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-3" value="是否有账户" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="306.66" y="240" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-4" target="KeRqx2bCTjgoF4S-KRW7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-4" value="填写账户密码验证码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301.65999999999997" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-5" target="KeRqx2bCTjgoF4S-KRW7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-5" target="KeRqx2bCTjgoF4S-KRW7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-5" value="判断账户密码&lt;br&gt;是否存在和验证码&lt;br&gt;正确性" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="266.66" y="410" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-6" target="KeRqx2bCTjgoF4S-KRW7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-6" value="提示信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-9" target="KeRqx2bCTjgoF4S-KRW7-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-9" value="登录成功进入主页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301.66999999999996" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-15" target="KeRqx2bCTjgoF4S-KRW7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-15" value="注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129.99999999999997" y="255" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-17" target="KeRqx2bCTjgoF4S-KRW7-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-17" value="填写注册信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129.99999999999997" y="330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-18" target="KeRqx2bCTjgoF4S-KRW7-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-18" target="KeRqx2bCTjgoF4S-KRW7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-18" value="判断注册信息正确性" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="95.00000000000003" y="410" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-19" target="KeRqx2bCTjgoF4S-KRW7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-19" value="注册成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129.99999999999997" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeRqx2bCTjgoF4S-KRW7-23" target="KeRqx2bCTjgoF4S-KRW7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-23" value="提示信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2.842170943040401e-14" y="255" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeRqx2bCTjgoF4S-KRW7-27" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="299.99" y="630" width="83.33" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
